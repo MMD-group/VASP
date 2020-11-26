@@ -1,0 +1,21 @@
+SYSTEM = MoS2
+ISMEAR = 1
+SIGMA = 0.1
+LREAL = .FALSE.
+ALGO = Fast
+IBRION = 1   ! Newton Algo
+ISIF = 2  ! relax atoms
+ENCUT = 450
+IVDW = 12
+ISPIN = 2
+NSW = 50 
+LPLANE = .TRUE.
+NPAR = 4
+NSIM = 4
+PREC = normal
+LASPH = .TRUE.
+LORBIT = 11
+
+EDIFF = 0.0001
+EDIFFG = -0.02
+
