@@ -1,0 +1,18 @@
+SYSTEM = AlN
+Electronic minimisation
+PREC = High
+IBRION = 2
+ISIF = 3
+NSW = 200
+ISPIN = 2
+EDIFF = 1E-7
+EDIFFG = -0.001
+#LDIPOL = .TRUE.
+#IDIPOL = 3
+LCHARG   =  .FALSE.
+LWAVE = .FALSE.
+DOS related value
+ISMEAR = -5;
+
+
+NPAR = 8
