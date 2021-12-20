@@ -1,0 +1,24 @@
+SYSTEM = al2o3-hf
+ISTART=0
+ISMEAR = 1
+SIGMA = 0.1
+LREAL = Auto
+ALGO = Fast
+IBRION = 1
+IMAGES = 3                # 2 intermediate geometries for
+SPRING = -5               # spring constant
+LCLIMB = .TRUE.
+ISIF = 2
+ISPIN = 2
+ENCUT = 400
+NSW = 500
+LWAVE = .FALSE.
+LCHARG = .FALSE.
+LPLANE = .TRUE.
+NPAR = 16
+NSIM = 4
+
+PREC = normal
+LASPH = .TRUE.
+LORBIT = 11
+
