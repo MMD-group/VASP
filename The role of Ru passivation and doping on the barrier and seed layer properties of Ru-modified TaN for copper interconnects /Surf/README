@@ -1,0 +1,17 @@
+0_bare - bare TaN
+1Ru/2 Ru - 1/ 2 layer Ru passivated TaN surfaces
+A - 100% first layer Ru doping
+B - 75
+C - 50
+D - 25
+line-vrtA -- 50-1 
+randomC -- 50-2
+randomA -- 50- 3
+line-hrz -- 50-4
+checkerboard -- 50-5
+randomD -- 50-6
+line-vrtB -- 50-7
+randomB -- 50-8
+RuB14 -- 50-9
+RuB -- 50-10
+
