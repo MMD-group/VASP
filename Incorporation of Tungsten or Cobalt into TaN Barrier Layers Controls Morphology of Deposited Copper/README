@@ -1,0 +1,2 @@
+This folder contains the relevant VASP files for the paper "Incorporation of Tungsten or Cobalt into TaN Barrier Layers Controls Morphology of Deposited Copper" by Cara-Lena Nies and Michael Nolan. 
+The INCAR, KPOINTS and POTCAR files stayed the same for each type of calculation and are therefore only included once in each main folder.
