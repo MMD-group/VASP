@@ -1,0 +1,21 @@
+This is the VASP data produced as part of "Prediction of Co and Ru nanocluster morphology on 2D MoS2 from interaction energies" by C-L. Nies and M. Nolan.
+
+All calculations used the INCAR and KPOINTS files included in the main folders.
+
+Labelling of different configurations is as follows:
+Denoted as either Co(n)-x or Ru(n)-x configuration.
+n = adsorption site
+1 = S_atop
+2 = Mo_atop
+3 = hollow
+
+number of n repetitions denoted after element indicates number of atoms in cluster, e.g., Ru1111 is the configuration where 4 Ru atoms are adsorbed at site S_atop. 
+
+If no label (-x) is specified after the adsorption sites, the atoms are adsorbed in a line along neighbouring adsorption sites. 
+Labels:
+-t = triangle
+-t-3D = 3D triangle
+-s = rhombus
+-s-3D = 3D rectangle
+-tet = tetrahedral
+
